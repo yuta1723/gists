@@ -7,3 +7,6 @@
 [submodule "python/wsgi/wsgiSample3"]
 	path = python/wsgi/wsgiSample3
 	url = https://gist.github.com/yuta1723/3a082ab0be38eb70c27a228082f56e2d
+[submodule "etc/lifehack/recipe/ツナもやし炒め"]
+	path = etc/lifehack/recipe/ツナもやし炒め
+	url = https://gist.github.com/yuta1723/abeedea385612671a4cc86715c37d89b
