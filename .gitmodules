@@ -1,0 +1,9 @@
+[submodule "python/wsgi/wsgiSample1"]
+	path = python/wsgi/wsgiSample1
+	url = https://gist.github.com/yuta1723/af2a9b9ebcb5d19b290fe339e900e2a9
+[submodule "python/wsgi/wsgiSample2"]
+	path = python/wsgi/wsgiSample2
+	url = https://gist.github.com/yuta1723/0bfccba1ff92f4535e626fc96ab0949a
+[submodule "python/wsgi/wsgiSample3"]
+	path = python/wsgi/wsgiSample3
+	url = https://gist.github.com/yuta1723/3a082ab0be38eb70c27a228082f56e2d
