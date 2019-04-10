@@ -10,3 +10,6 @@
 [submodule "etc/lifehack/recipe/ツナもやし炒め"]
 	path = etc/lifehack/recipe/ツナもやし炒め
 	url = https://gist.github.com/yuta1723/abeedea385612671a4cc86715c37d89b
+[submodule "commands/linux/commands"]
+	path = commands/linux/commands
+	url = https://gist.github.com/yuta1723/32bf7cf3627beaf2b0d048f1fafc8db2
